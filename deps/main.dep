@@ -1,0 +1,2 @@
+deps/main.dep  deps/main.o: src/main.cpp src/shape.hpp src/circle.hpp \
+ src/rectangle.hpp

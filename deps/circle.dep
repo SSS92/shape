@@ -1,0 +1,2 @@
+deps/circle.dep  deps/circle.o: src/circle.cpp src/shape.hpp \
+ src/circle.hpp
