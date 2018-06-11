@@ -24,11 +24,12 @@ Circle::~Circle ()
 {
     std::cout << "Circle destructor called" << std::endl;
 }
-
+/*
 void Circle::print () const
 {
     Shape::print();
 }
+*/
 
 double Circle::get_radius () const
 {

@@ -1,2 +1,0 @@
-deps/cirlce.dep  deps/cirlce.o: src/cirlce.cpp src/shape.hpp \
- src/circle.hpp

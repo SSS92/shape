@@ -14,7 +14,7 @@ class Circle : public Shape
 
         double calculate_perimeter() const;
 
-        void print () const;
+//        void print () const;
         
         double get_radius () const;
 
